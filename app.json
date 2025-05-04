@@ -20,6 +20,11 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.theobc.myography"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6983824c-baf3-4756-8635-ca0ceeea6257"
+      }
     }
   }
 }
